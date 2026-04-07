@@ -30,4 +30,4 @@ Overall, the data suggests that fuel price movements were shaped by a combinatio
 If current trends persist, fuel prices may continue to experience upward pressure, particularly in regions with high taxation or limited subsidies.
 
 ## Visualization
-![Petrol Price Trend](images/petrol_price_trend.png)
+![Petrol Price Trend](image/petrol_price_trend.png)
