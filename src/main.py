@@ -65,3 +65,11 @@ The correlation between Brent crude and petrol prices is {brent_corr:.2f}, while
 Overall, the dataset suggests that rising petrol prices should be understood not only as an oil story, but as the outcome of a wider system involving crude prices, state intervention, tax policy, and regional energy vulnerability.
 """
 print(ai_output)
+
+# 8. Output
+Global average petrol prices rose from 1.48 USD/L in 2020 to 2.65 USD/L in 2026, indicating that higher fuel costs over this period were not a short-lived spike but part of a broader upward shift.
+This increase was not evenly distributed. Europe recorded the highest average petrol price at 3.70 USD/L, while Middle East recorded the lowest at 1.23 USD/L, suggesting that geography and regional policy frameworks materially shape consumer fuel costs.
+Differences across subsidy regimes are also significant. Low countries averaged 3.45 USD/L, compared with Very High countries at 0.15 USD/L, indicating that subsidy structures may either cushion or amplify the pass-through of energy market shocks to retail prices.
+A similar divide appears across income groups. High income countries averaged 3.55 USD/L, versus Low income countries at 1.39 USD/L, suggesting that pump prices reflect not only commodity markets but also fiscal capacity, pricing policy, and energy market design.
+The correlation between Brent crude and petrol prices is 0.26, while the correlation between petrol prices and tax percentage is 0.52. This implies that retail fuel prices are shaped by both upstream oil market conditions and downstream policy choices such as taxation.
+Overall, the dataset suggests that rising petrol prices should be understood not only as an oil story, but as the outcome of a wider system involving crude prices, state intervention, tax policy, and regional energy vulnerability.
